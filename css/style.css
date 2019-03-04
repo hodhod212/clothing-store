@@ -74,7 +74,7 @@ body, select,  textarea {
 	color: #333;
 }
 a {
-	color: #03f;
+	color: rgb(23, 49, 151);
 }
 a:hover {
 	color: #69f;
