@@ -15,7 +15,7 @@
 </head>
 <body id="page_home">
 <div class="wrapper">
-<header>
+<header id="page-header">
     <!--<div class="branding"> <img src="./images/logo.png" alt="Logo">
     </div>-->
     <div class="description">

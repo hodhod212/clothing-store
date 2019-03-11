@@ -5,7 +5,6 @@ $(document).ready(function () {
             $mail     = $('#signup-email'),
             testmail  = /^[^0-9][A-z0-9._%+-]+([.][A-z0-9_]+)*[@][A-z0-9_]+([.][A-z0-9_]+)*[.][A-z]{2,4}$/,
             hasError  = false;
-
         $response.find('p').remove();
 
         if (!testmail.test($mail.val())) {
